@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2022-20-10_Dugan.json",
     "label" : "Self-portrait (reaching)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2008-31abc_Cox.json",
+    "label" : "Baby Back"
   } ]
 }
