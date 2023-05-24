@@ -1,0 +1,162 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2008-31abc_Cox.json",
+  "@type" : "sc:Manifest",
+  "label" : "Baby Back",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "2008-31_001.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Catalogue",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "968"
+  }, {
+    "label" : "Pixel width",
+    "value" : "1500"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "1510824962"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "52616"
+  }, {
+    "label" : "Object Number",
+    "value" : "2008.31abc"
+  }, {
+    "label" : "Object Name",
+    "value" : "Photograph"
+  }, {
+    "label" : "TMS Copyright Notice",
+    "value" : "© Renee Cox"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Renee Cox, American, born 1960"
+  }, {
+    "label" : "Date Label",
+    "value" : "2001"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "2001"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "2001"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Baby Back, from the American Family Series"
+  }, {
+    "label" : "Research Area",
+    "value" : "Photograph"
+  }, {
+    "label" : "Period",
+    "value" : "21st century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Archival digital \"C\" print mounted on aluminum"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Overall: 100 × 144 in. (254 × 365.8 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Woman Artist | Profile | Female Nude | Self-Portrait | African American | Rose | African American Artist | Couch | Odalisque | Sexuality | Racism | Whip | 21st century photography | Stereotypes"
+  }, {
+    "label" : "Exhibition History",
+    "value" : "\\r\\nReconstitution, Dorothy and Churchill P. Lathrop Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, January 2, 2020 - June 20, 2021. | Black Womanhood: Images, Icons, and Ideologies of the African Body, William B. Jaffe and Evelyn A. Jaffe Hall Galleries, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, April 1-August 10, 2008; Davis Museum and Cultural Center, Wellesley College, Wellesley, Massachusetts, September 10-December 10, 2008; San Diego Museum of Art, San Diego, California, January 21-April 26, 2009. | Shadowplay: Transgressive Photography from the Hood Museum of Art, Owen Robertson Cheatham and Friends Gallery, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire, August 10-December 8, 2013. | Virtual Space for Dialogue: 2017, Vanity: Disrupting The Female Nude, Jessica King Fredel, Class of 2017, Levinson Intern, Hood Museum of Art, Dartmouth College, Hanover, New Hampshire. https://www.jkingfredel.vsfd.hoodmuseum.dartmouth.edu/"
+  }, {
+    "label" : "Publication History",
+    "value" : "Barbara Thompson, Black Womanhood: Images, Icons, and Ideologies of the African Body, Seattle: University of Washington Press [Hanover: Trustees of Dartmouth College], 2008, p. 329, plate 110. | Brian P. Kennedy and Emily Shubert Burke, Modern and Contemporary Art at Dartmouth: Highlights from the Hood Museum of Art, Hanover: Trustees of Dartmouth College, 2009 p.206, no.264. | John R. Stomberg, The Hood Now: Art and Inquiry at Dartmouth, Hanover, New Hampshire: Hood Museum of Art, Dartmouth College, 2019, p. 196, ill. plate no. 127."
+  }, {
+    "label" : "Credit Line",
+    "value" : "Purchased through the Sondra and Charles Gilman Jr. Foundation Fund and the Fund for Contemporary Photography"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "NEL (standard)"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/5539/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 113,
+    "width" : 175,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/5539",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/52616/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/52616/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 968,
+      "width" : 1500,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/5539/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 113,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/5539",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/52616/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/5539/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 968,
+          "width" : 1500,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/5539",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/52616/canvas/0"
+      } ]
+    } ]
+  } ]
+}
