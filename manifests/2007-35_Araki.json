@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2007-35_Araki.json",
   "@type" : "sc:Manifest",
-  "label" : "N/A",
+  "label" : "Untitled 'Bondage (Kinbaku)'",
   "description" : "",
   "metadata" : [ {
     "label" : "Original filename",
