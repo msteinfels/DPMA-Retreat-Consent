@@ -1,0 +1,13 @@
+{
+  "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in msteinfels/DPMA-Retreat-Consent project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2007-35_Araki.json",
+    "label" : "N/A"
+  } ]
+}
