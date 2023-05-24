@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2007-35_Araki.json",
     "label" : "N/A"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2022-20-10_Dugan.json",
+    "label" : "Self-portrait (reaching)"
   } ]
 }
