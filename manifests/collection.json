@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2008-31abc_Cox.json",
     "label" : "Baby Back"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/ConsentCover.json",
+    "label" : "[Click to edit label]"
   } ]
 }
