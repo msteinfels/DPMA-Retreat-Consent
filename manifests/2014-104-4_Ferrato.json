@@ -1,0 +1,184 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2014-104-4_Ferrato.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sarah Augusta, 26, Finally Free from Abuse (I am Unbeatable)",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "2014-104-4_000.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "5714"
+  }, {
+    "label" : "Pixel width",
+    "value" : "4778"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-130034667"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "68139"
+  }, {
+    "label" : "Object Number",
+    "value" : "2014.104.4"
+  }, {
+    "label" : "Object Name",
+    "value" : "Photograph"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Donna Ferrato, American, born 1949"
+  }, {
+    "label" : "Date Label",
+    "value" : "2012"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "2012"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "2012"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Sarah Augusta, 26, Finally Free from Abuse (I am Unbeatable)"
+  }, {
+    "label" : "Research Area",
+    "value" : "Photograph"
+  }, {
+    "label" : "Period",
+    "value" : "21st century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Archival pigment print"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Image: 18 1/16 × 10 1/16 in. (45.8 × 25.5 cm) | Sheet: 24 × 20 in. (61 × 50.8 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Female Portrait | Woman Artist | Domestic Violence | Survival | Recovery"
+  }, {
+    "label" : "Credit Line",
+    "value" : "Gift of Bruce Sanford"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Under Copyright"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Alternate",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/8041/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 175,
+    "width" : 146,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/8041",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/68139/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/68139/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 5714,
+      "width" : 4778,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/8041/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 146,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/8041",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/68139/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/8041/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 5714,
+          "width" : 4778,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/8041",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/68139/canvas/0"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/68139/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 4213,
+      "width" : 2353,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/8041/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 98,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/8041",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/68139/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/8041/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4213,
+          "width" : 2353,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/8041",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/68139/canvas/1"
+      } ]
+    } ]
+  } ]
+}
