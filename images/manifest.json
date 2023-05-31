@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2400,
+    "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar/canvas/",
+    "label" : {
+      "none" : [ "CW-Whitecar" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 75,
+              "height" : 94
+            }, {
+              "width" : 150,
+              "height" : 188
+            }, {
+              "width" : 300,
+              "height" : 375
+            }, {
+              "width" : 600,
+              "height" : 750
+            }, {
+              "width" : 1200,
+              "height" : 1500
+            }, {
+              "width" : 2400,
+              "height" : 3000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2400,
+            "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2400,
+          "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3000
+        },
+        "target" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/CW-Whitecar/canvas/"
+      } ]
+    } ],
+    "height" : 3000
+  }, {
+    "width" : 2400,
     "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/ConsentCover/canvas/",
     "label" : {
       "none" : [ "ConsentCover" ]
