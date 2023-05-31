@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/ConsentCover.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/Coverimagewhitecar.json",
+    "label" : "[Click to edit label]"
   } ]
 }
