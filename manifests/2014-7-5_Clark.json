@@ -1,0 +1,193 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2014-7-5_Clark.json",
+  "@type" : "sc:Manifest",
+  "label" : "Untitled (Woman with a Black Eye in Bed), from the series Tulsa",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "2014-7-5_001-17_cr.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Pixel height",
+    "value" : "2710"
+  }, {
+    "label" : "Pixel width",
+    "value" : "1846"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-576868433"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "67114"
+  }, {
+    "label" : "Object Number",
+    "value" : "2014.7.5"
+  }, {
+    "label" : "Object Name",
+    "value" : "Photograph"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Larry Clark, American, born 1943"
+  }, {
+    "label" : "Date Label",
+    "value" : "negative 1971; print 1972"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1971"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1971"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Untitled (Woman with a Black Eye in Bed), from the seriesTulsa"
+  }, {
+    "label" : "Research Area",
+    "value" : "Photograph"
+  }, {
+    "label" : "Period",
+    "value" : "20th century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Gelatin silver print"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Sheet: 9 15/16 × 8 1/16 in. (25.3 × 20.4 cm) | Image: 8 7/16 × 5 13/16 in. (21.5 × 14.7 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "20th century photography | Flower | Violence | Bed | Youth | Injury | Oklahoma | Domestic Violence"
+  }, {
+    "label" : "Publication History",
+    "value" : "These ten photographs from Larry Clark's Tulsa series present a side of youth culture rarely seen in the late sixties and seventies. In an interview with ARTForum in 1995, Clark said, “The one thing I wanted to do in Tulsa was cut through the bull…and tell the truth.”  Taking pictures of his friends, Clark's photographs show young men with guns, nude or partially-nude youths shooting up, an accidental gunshot wound, a woman in bed with a black eye, and perhaps most shockingly, a pregnant woman using drugs and an infant's funeral. The men and women pictured seem to treat drug use and violence with a casual attitude in contrast to the viewer's potential shock at the nature of their activities. Clark has shown them sympathetically, and at times, beautifully. "
+  }, {
+    "label" : "Credit Line",
+    "value" : "Purchased through the William S. Rubin Fund, the Contemporary Art Fund, the Fund for Contemporary Photography, and the Sondra and Charles Gilman Jr. Foundation Fund"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Under Copyright"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/190/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 175,
+    "width" : 119,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/190",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/67114/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/67114/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 2710,
+      "width" : 1846,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/190/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 119,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/190",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/67114/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/190/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 2710,
+          "width" : 1846,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/190",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/67114/canvas/0"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/67114/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 3155,
+      "width" : 3398,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/190/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 163,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/190",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/67114/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/190/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3155,
+          "width" : 3398,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/190",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/67114/canvas/1"
+      } ]
+    } ]
+  } ]
+}
