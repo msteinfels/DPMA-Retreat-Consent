@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2014-7-5_Clark.json",
     "label" : "Untitled (Woman with a Black Eye in Bed), from the series Tulsa"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2014-104-4_Ferrato.json",
+    "label" : "Sarah Augusta, 26, Finally Free from Abuse (I am Unbeatable)"
   } ]
 }
