@@ -1,0 +1,187 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2022-20-7_Dugan.json",
+  "@type" : "sc:Manifest",
+  "label" : "Collin (red room)",
+  "description" : "",
+  "metadata" : [ {
+    "label" : "Original filename",
+    "value" : "2022-20-7_001-22_cr.tif"
+  }, {
+    "label" : "Photographer",
+    "value" : "Jeffrey Nintzel"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "-511719889"
+  }, {
+    "label" : "Object ID",
+    "value" : "76367"
+  }, {
+    "label" : "Object Number",
+    "value" : "2022.20.7"
+  }, {
+    "label" : "Object Name",
+    "value" : "Photograph"
+  }, {
+    "label" : "TMS Copyright Notice",
+    "value" : "© Jess T. Dugan"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Jess T. Dugan, American, born 1986"
+  }, {
+    "label" : "Date Label",
+    "value" : "2020, printed 2022"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "2020"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "2022"
+  }, {
+    "label" : "Nationality",
+    "value" : "American"
+  }, {
+    "label" : "Title",
+    "value" : "Collin (red room), from the portfolio every breath we drew"
+  }, {
+    "label" : "Research Area",
+    "value" : "Photograph"
+  }, {
+    "label" : "Period",
+    "value" : "21st century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: United States, North America"
+  }, {
+    "label" : "Medium",
+    "value" : "Color photograph printed on Hahnemuhle Photo Rag Pearl paper"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Image: 18 1/16 × 13 1/2 in. (45.8 × 34.3 cm) | Sheet: 20 × 16 in. (50.8 × 40.6 cm)"
+  }, {
+    "label" : "Subjects",
+    "value" : "Portrait | Red | Color Photography | Non-binary | LGBT+"
+  }, {
+    "label" : "Credit Line",
+    "value" : "Purchased through the Miriam H. and S. Sidney Stoneman Acquisition Fund"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "NEL (standard)"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Has Object Target",
+    "value" : [ {
+      "@value" : "No",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/63300/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 175,
+    "width" : 140,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/63300",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/76367/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/76367/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 4200,
+      "width" : 3362,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/63300/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 140,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/63300",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/76367/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/63300/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4200,
+          "width" : 3362,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/63300",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/76367/canvas/0"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/76367/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 4200,
+      "width" : 2932,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/63300/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 175,
+        "width" : 122,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/63300",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/76367/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/63300/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4200,
+          "width" : 2932,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/63300",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/76367/canvas/1"
+      } ]
+    } ]
+  } ]
+}
