@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2014-104-4_Ferrato.json",
     "label" : "Sarah Augusta, 26, Finally Free from Abuse (I am Unbeatable)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2022-20-7_Dugan.json",
+    "label" : "Collin (red room)"
   } ]
 }
