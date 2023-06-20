@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3899,
+    "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/canvas/",
+    "label" : {
+      "none" : [ "Composite-1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 122,
+              "height" : 84
+            }, {
+              "width" : 244,
+              "height" : 167
+            }, {
+              "width" : 488,
+              "height" : 333
+            }, {
+              "width" : 975,
+              "height" : 665
+            }, {
+              "width" : 1950,
+              "height" : 1330
+            }, {
+              "width" : 3899,
+              "height" : 2659
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3899,
+            "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2659
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3899,
+          "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2659
+        },
+        "target" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/canvas/"
+      } ]
+    } ],
+    "height" : 2659
+  }, {
     "width" : 3891,
     "id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-2/canvas/",
     "label" : {
