@@ -5,11 +5,11 @@
   "label" : "Composite images for Consent",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Composite image",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Meredith Steinfels-Hood Museum of Art, Dartmouth",
   "sequences" : [ {
     "@id" : "http://050f5ee7-56ef-439b-acbb-83d55b763e86",
     "@type" : "sc:Sequence",
