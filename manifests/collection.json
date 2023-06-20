@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/2022-20-7_Dugan.json",
     "label" : "Collin (red room)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/Composites.json",
+    "label" : "Composite images for Consent"
   } ]
 }
