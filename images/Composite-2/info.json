@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 122,
+    "height" : 37
+  }, {
+    "width" : 244,
+    "height" : 74
+  }, {
+    "width" : 487,
+    "height" : 148
+  }, {
+    "width" : 973,
+    "height" : 295
+  }, {
+    "width" : 1946,
+    "height" : 589
+  }, {
+    "width" : 3891,
+    "height" : 1177
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3891,
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1177
+}
