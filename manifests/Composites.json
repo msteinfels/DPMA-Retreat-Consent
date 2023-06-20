@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/manifests/Composites.json",
+  "@type" : "sc:Manifest",
+  "label" : "Composite images for Consent",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://050f5ee7-56ef-439b-acbb-83d55b763e86",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a1184a58-2757-435e-ae18-de8c45b00a6a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2659,
+      "width" : 3899,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9ce32166-51fd-4c81-a41b-3f2013e94f10",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2659,
+          "width" : 3899
+        },
+        "on" : "http://a1184a58-2757-435e-ae18-de8c45b00a6a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4a55d435-2abd-449e-826f-e0dd32d040cb",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1177,
+      "width" : 3891,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9e9b1d11-fc25-45f5-b559-c96b6cd973d5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://msteinfels.github.io/DPMA-Retreat-Consent/images/Composite-2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1177,
+          "width" : 3891
+        },
+        "on" : "http://4a55d435-2abd-449e-826f-e0dd32d040cb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
